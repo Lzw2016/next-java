@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.micronaut.test:micronaut-test-junit5:1.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../ToolsSoftware/Maven/.m2/repository/io/micronaut/test/micronaut-test-junit5/1.1.2/micronaut-test-junit5-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../ToolsSoftware/Maven/.m2/repository/io/micronaut/test/micronaut-test-junit5/1.1.2/micronaut-test-junit5-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../ToolsSoftware/Maven/.m2/repository/io/micronaut/test/micronaut-test-junit5/1.1.2/micronaut-test-junit5-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

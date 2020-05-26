@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/helidon-server/helidon-server.iml" filepath="$PROJECT_DIR$/helidon-server/helidon-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micronaut-server/micronaut-server.iml" filepath="$PROJECT_DIR$/micronaut-server/micronaut-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/next-java.iml" filepath="$PROJECT_DIR$/next-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/quarkus-server/quarkus-server.iml" filepath="$PROJECT_DIR$/quarkus-server/quarkus-server.iml" />
     </modules>
