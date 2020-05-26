@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/micronaut-server/micronaut-server.iml" filepath="$PROJECT_DIR$/micronaut-server/micronaut-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/next-java.iml" filepath="$PROJECT_DIR$/next-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/quarkus-server/quarkus-server.iml" filepath="$PROJECT_DIR$/quarkus-server/quarkus-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-server/spring-server.iml" filepath="$PROJECT_DIR$/spring-server/spring-server.iml" />
     </modules>
   </component>
 </project>

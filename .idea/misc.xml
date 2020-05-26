@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/helidon-server/pom.xml" />
         <option value="$PROJECT_DIR$/quarkus-server/pom.xml" />
         <option value="$PROJECT_DIR$/micronaut-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-server/pom.xml" />
       </list>
     </option>
   </component>
